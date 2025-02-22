@@ -15,7 +15,7 @@ This **Automatic File Sorter** is a Python-based tool that organizes files by so
 
 ---
 
-## 5. Customization
+## 3. Customization
 
 You can modify the script to support additional file extensions by updating the sorting logic:
 
@@ -27,7 +27,7 @@ Simply add new extensions and their corresponding folders as needed.
 
 ---
 
-## 6. Visual Filters (Slicers) Used
+## 4. Visual Filters (Slicers) Used
 
 The script allows filtering files based on the following parameters:
 
@@ -36,7 +36,7 @@ The script allows filtering files based on the following parameters:
 
 ---
 
-## **5. Expected Output**
+## 5. Output
 ### Before execution
 ![Output Snapshot](https://github.com/Roshini2405/File_sorter/blob/main/Output%20ss%20of%20file%20sorter/Before_execution.png)
 
@@ -45,7 +45,7 @@ The script allows filtering files based on the following parameters:
 
 ---
 
-## 8. Usage & Applications
+## 6. Usage & Applications
 
 This project can be used for: ✅ **Efficient file management** by sorting files into designated folders. ✅ **Reducing manual effort** in organizing files. ✅ **Handling multiple file types** dynamically.
 
